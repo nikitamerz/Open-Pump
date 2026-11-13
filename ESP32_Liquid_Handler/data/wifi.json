@@ -1,0 +1,12 @@
+{
+  "SSID": "MERCUSYS_34E4",
+  "PASS": "14402357",
+  "SERVER": "192.168.1.105",
+  "MQTTUser": "",
+  "MQTTPass": "",
+  "TopicINFO": "botabot/lab/liquidhanler/01/INFO",
+  "TopicDEBUG": "botabot/lab/liquidhanler/01/DEBUG",
+  "TopicCONFIG": "botabot/lab/liquidhanler/01/CONFIG",
+  "TopicCMD": "botabot/lab/liquidhanler/01/CMD",
+  "HostName": "ESP32_LIQUID_HANDLER_01"
+}
